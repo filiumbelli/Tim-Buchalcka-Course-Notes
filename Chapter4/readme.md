@@ -9,3 +9,11 @@
 - A method cannot modify a parameter of a primitive type (that is, numbers or boolean values).
 - A method can change the state of an object parameter.
 - A method cannot make an object parameter refer to a new object
+    
+# Class Design Hints
+1. Always keep data private.
+2. Always initialize data.
+3. Don’t use too many basic types in a class.
+4. Not all fields need individual field accessors and mutator
+5. Break up classes that have too many responsibilities.
+6. Make the names of your classes and methods reflect their responsibilities.
