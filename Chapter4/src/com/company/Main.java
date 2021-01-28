@@ -10,7 +10,6 @@ public class Main {
     }
     public static void main(String[] args) {
 	 Employee employee = new Employee(3500.00,"Abdurrezzak");
-	 employee.paySalary();
         (new Main()).hero();
     }
 
