@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NamingPackagesScope:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NamingPackagesScope_jar</output-path>
+    <root id="archive" name="NamingPackagesScope.jar">
+      <element id="module-output" name="NamingPackagesScope" />
+      <element id="library" level="project" name="src" />
+    </root>
+  </artifact>
+</component>

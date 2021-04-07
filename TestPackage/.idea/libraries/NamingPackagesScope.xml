@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NamingPackagesScope">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../NamingPackagesScope/out/artifacts/NamingPackagesScope_jar/NamingPackagesScope.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
